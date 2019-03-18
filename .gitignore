@@ -1,3 +1,6 @@
 *.ipynb_checkpoints*
 *.pyc
 *_master.ipynb
+
+
+material_exercises/week_6/*
