@@ -4,9 +4,17 @@
 
 .vscode
 
-material_exercises/week_6/*
-!material_exercises/week_6/assignment_1_recap.ipynb
+
+material/9_spatial1/house_prices.geojson
+material/9_spatial1/geo_exercises_solution.ipynb
+material_exercises/useful_python/generators.py 
+
+*__pycache__
+material/8_networks4/exercises_week8
 
 assignments/assignment2/facebook-wall.txt
-material/8_networks4/exercises_week8_solution.ipynb
+
 #material/7_networks3/exercise_week7_solution.ipynb
+
+material_exercises/week_6/*
+!material_exercises/week_6/assignment_1_recap.ipynb
