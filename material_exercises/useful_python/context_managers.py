@@ -38,8 +38,6 @@ class Collapsed:
                            .agg(self.funcs)\
                            .reset_index(drop = False)
 
-
-        self.collapsed = collapsed
         return collapsed
 
     def __exit__(self, type, value, traceback):
@@ -59,3 +57,5 @@ if __name__ == '__main__':
     with Collapsed(df, 'group') as c:
         print('--------------------')
         print(c)
+
+        
