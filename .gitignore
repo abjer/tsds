@@ -4,7 +4,10 @@
 
 .vscode
 
-assignments/assignment3/*
+assignments/assignment3/assignment_3_solution.ipynb
+assignments/assignment3/data/* 
+assignments/assignment3/house_prices.geojson 
+
 
 material/9_spatial1/house_prices.geojson
 
@@ -13,6 +16,10 @@ material/9_spatial1/geo_exercises_master.ipynb
 material_exercises/useful_python/generators.py 
 material_exercises/week_10/facebook-wall.txt
 material_exercises/week_10/peer_effects_room.csv
+
+material/10_spatial2/data/*
+material/10_spatial2/geo_exercises2_part1_solution.ipynb
+material/10_spatial2/geo_exercises2_part2_solution.ipynb
 
 *__pycache__
 #material/8_networks4/exercises_week8
