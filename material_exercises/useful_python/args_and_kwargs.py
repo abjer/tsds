@@ -15,7 +15,7 @@ def check_all_int(*a):
     for var in a:
         if not isinstance(var, int):
             return False
-        return True
+    return True
 
 
 def set_vals_in_dict(dictionary, **kw):
