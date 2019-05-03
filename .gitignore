@@ -18,8 +18,23 @@ material_exercises/week_10/facebook-wall.txt
 material_exercises/week_10/peer_effects_room.csv
 
 material/10_spatial2/data/*
-material/10_spatial2/geo_exercises2_part1_solution.ipynb
+#material/10_spatial2/geo_exercises2_part1_solution.ipynb
 material/10_spatial2/geo_exercises2_part2_solution.ipynb
+
+material/11_text1/text_exercises_1_master.ipynb
+material/11_text1/Posts_ds.csv
+material/11_text1/Posts_overflow.csv
+material/11_text1/Posts_stats.csv
+material/11_text1/Posts_stats_sample.csv
+
+
+material/12_text2/Posts_ds.csv
+material/12_text2/Posts_overflow.csv
+material/12_text2/Posts_stats.csv
+material/12_text2/lexicon_functions/*
+    material/12_text2/exercises_12_solution.ipynb
+material/12_text2/Posts_stats_sample.csv
+
 
 *__pycache__
 #material/8_networks4/exercises_week8
